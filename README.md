@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java Spring Boot
-- - 📫 How to reach me: cihand7@outlook.com
+- 📫 How to reach me: cihand7@outlook.com
 
 <!--
 **cdemir7/cdemir7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
