@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java Spring Boot <br>📝 My articles on Medium <br>📫 How to reach me: cihand7@outlook.com<br>💬 Ask me about Java Spring Boot and Python</p>
+📚 I'm currently learning Java Spring Boot 
+
+📝 My articles on [Medium](https://medium.com/@cihandemir7)
+
+📫 How to reach me: cihand7@outlook.com
+
+💬 Ask me about Java Spring Boot and Python
 
 ###
 
