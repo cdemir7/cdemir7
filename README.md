@@ -10,7 +10,7 @@
 
 ###
 
-📚 I'm currently learning Java Spring Boot 
+📚 I'm currently learning Java Spring Boot and C# Asp.Net Core
 
 📝 My articles on [Medium](https://medium.com/@cihandemir7)
 
