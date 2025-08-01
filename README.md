@@ -10,7 +10,7 @@
 
 ###
 
-📚 I'm currently learning Java Spring Boot and C# Asp.Net Core
+📚 I am a developer with a passion for learning who develops projects in the fields of artificial intelligence, machine learning and deep learning.
 
 📝 My articles on [Medium](https://medium.com/@cihandemir7)
 
