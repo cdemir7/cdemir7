@@ -16,7 +16,7 @@
 
 📫 How to reach me: cihand7@outlook.com
 
-💬 Ask me about Java Spring Boot and Python
+💬 Ask me about Python, Pytorch an Computer Vision
 
 ###
 
@@ -46,9 +46,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
