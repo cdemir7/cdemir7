@@ -49,15 +49,3 @@ Samsun Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği mezunu, Kastamonu 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-<br>
-
----
-
-## 📈 GitHub İstatistikleri
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cdemir7&theme=tokyonight&hide_border=true" />
-</p>
