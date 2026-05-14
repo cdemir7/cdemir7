@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a developer passionate about transforming data into insights. I build projects focusing on <b>Artificial Intelligence, Computer Vision, and Deep Learning</b>. Always eager to learn new technologies and solve complex problems.
+  Bilgisayar Mühendisliği mezunu, Kastamonu Üniversitesi'nde Yapay Zeka alanında yüksek lisans öğrencisiyim. Bilgisayarlı görü, derin öğrenme ve LLM tabanlı uygulamalar üzerine çalışıyorum. Şu an MRI görüntülerinden tümör sınıflandırması, doküman tabanlı sohbet asistanları (RAG) ve KOBİ'ler için AI destekli müşteri analiz sistemleri geliştiriyorum.
 </p>
 
 <div align="center">
